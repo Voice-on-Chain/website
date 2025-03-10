@@ -23,28 +23,28 @@ export default function Page() {
             communities.
           </p>
           <Link
-            href="https://dao.voc.community/communities"
+            href="https://voice-on-chain.vercel.app/communities"
             className="inline-block rounded-[0.625rem] w-full lg:w-fit bg-accent py-3 px-7 text-white text-sm"
           >
             Explore Communities
           </Link>
         </div>
-        {/* <Image
+        <Image
           alt="Dapp - Explore Communities"
-          src="/svgs/dapp-mobile.svg"
+          src="/images/dapp.png"
           width={631.09}
           height={390.29}
           placeholder={generatePlaceholder(631.09, 390.29)}
-          className="object-left-top object-cover max-w-full lg:hidden"
+          className="object-bottom object-cover max-w-full lg:hidden"
         />
         <Image
           alt="Dapp - Explore Communities"
-          src="/svgs/dapp-desktop.svg"
+          src="/images/dapp.png"
           width={1313}
           height={812}
           placeholder={generatePlaceholder(1313, 812)}
-          className="object-center object-cover max-w-full hidden lg:block"
-        /> */}
+          className="object-bottom object-cover max-w-full hidden lg:block"
+        />
       </section>
       <section className="bg-shark-2 bg-top bg-pattern bg-blend-exclusion bg-no-repeat bg-cover pt-[5rem] 1xl:pt-[5.9375rem] 1xl:pb-[6.6875rem] pb-[5.875rem] px-18 1xl:px-[5.375rem] lg:px-16 flex items-center flex-col text-center">
         <h2 className="text-white font-medium text-3xl 1xl:text-5xl max-w-[43rem] mb-[3.125rem] 1xl:mb-[4.625rem]">
@@ -93,13 +93,13 @@ export default function Page() {
             </h3>
             <span className="flex flex-col items-center w-full max-w-[33.0625rem] whitespace-nowrap mx-auto lg:flex-row lg:space-y-0 lg:space-x-4 space-y-4">
               <Link
-                href="https://dao.voc.community/communities"
+                href="https://voice-on-chain.vercel.app/communities"
                 className="block rounded-[0.625rem] w-full flex-1 text-accent py-3 px-7 bg-white text-sm"
               >
                 Join a Decentralized Community
               </Link>
               <Link
-                href="https://dao.voc.community/communities/new"
+                href="https://voice-on-chain.vercel.app/communities/new"
                 className="block rounded-[0.625rem] w-full flex-1 bg-accent py-3 px-7 lg:px-10 text-white text-sm"
               >
                 Create a Community

@@ -3,18 +3,6 @@ import Link from "next/link";
 import React from "react";
 
 const communities = [
-  // {
-  //   href: "https://voice-on-chain.gitbook.io/docs",
-  //   label: "Docs",
-  // },
-  // {
-  //     href: "/",
-  //     label: "Discord",
-  // },
-  // {
-  //   href: "https://x.com/Voiceonchain",
-  //   label: "Twitter",
-  // },
   {
     href: "https://t.me/+XPaH4NzQVKg3YTE8",
     label: "Telegram",
