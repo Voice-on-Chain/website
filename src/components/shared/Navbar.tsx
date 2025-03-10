@@ -44,7 +44,7 @@ const Navbar = () => {
               Docs
             </Link> */}
             <Link
-              href="https://voice-on-chain.vercel.app/communities"
+              href="https://doa-voc.vercel.app/communities"
               className="inline-block rounded-[0.625rem] bg-accent py-3 px-7 text-white text-sm"
             >
               Start your Community
