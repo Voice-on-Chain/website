@@ -8,7 +8,7 @@ const Header = () => {
       <span className="flex items-start lg:items-center space-x-[0.625rem] justify-center bg-dew px-4 rounded-3xl py-[0.3125rem]">
         <AiFillInfoCircle size={24} className="-mt-1 lg:mt-0" />
         <p>
-          All communities currently listed, are for testnet purposes and doesn’t
+          All communities currently listed, are for testing purposes and doesn’t
           have association with the team.
         </p>
       </span>
